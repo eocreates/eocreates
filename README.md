@@ -13,11 +13,11 @@ My professional journey spans sectors like consulting, education, and technology
 -------
 ⚡ Core Competencies
 ------
-* 📊 Data Analysis & Visualization — Power BI, Excel, Tableau
-* 🧠 SQL & Data Modelling — ETL, DDL, DML, DAX, Azure SQL, Power Query
+* 📊 Data Analysis & Visualization: Power BI, Excel, Tableau
+* 🧠 SQL & Data Modelling: ETL, DDL, DML, DAX, Azure SQL, Power Query
 * ☁️ Cloud & Data Engineering: Microsoft Azure, AWS, Data Migration, Security
-* 📈 Business Intelligence — KPI Reporting, Storytelling, Forecasting
-* 🔍 Process & Root Cause Analysis — Gap Analysis, Requirements Gathering
+* 📈 Business Intelligence: KPI Reporting, Storytelling, Forecasting
+* 🔍 Process & Root Cause Analysis: Gap Analysis, Requirements Gathering
 
 -----
 📚 Data Analytics Projects
