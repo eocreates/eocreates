@@ -1,5 +1,7 @@
 <h2 align="left"> 🙋‍♂️ Introducing Myself</h2>
 
+🌟 Data Analyst | Business Intelligence Professional | Problem Solver
+
 ###
 
 <div align="left">
