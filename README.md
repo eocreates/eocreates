@@ -18,7 +18,9 @@ My professional journey spans sectors like consulting, education, and technology
 * 📈 Business Intelligence — KPI Reporting, Storytelling, Forecasting
 * 🔍 Process & Root Cause Analysis — Agile, UML, Gap Analysis
 
-
+-----
+🌍 Connect with Me
+-----
 
 ###
 
