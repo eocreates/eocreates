@@ -11,7 +11,12 @@ I specialize in using SQL, Power BI, Excel and visualize data that tells powerfu
 My professional journey spans sectors like consulting, education, and technology, where I’ve led data integration projects, automated reporting workflows, and delivered insights that improved decision-making efficiency by up to 40%. I’m passionate about combining analytics with storytelling  turning raw data into clear, actionable narratives that drive performance and growth.
 
 -------
-⚡Core Competencies
+⚡ Core Competencies
+------
+📊 Data Analysis & Visualization — Power BI, Excel, Tableau
+🧠 SQL & Data Modelling — ETL, DDL, DML, DAX, Azure
+📈 Business Intelligence — KPI Reporting, Storytelling, Forecasting
+🔍 Process & Root Cause Analysis — Agile, UML, Gap Analysis
 
 
 
