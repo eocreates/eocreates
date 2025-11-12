@@ -22,10 +22,10 @@ My professional journey spans sectors like consulting, education, and technology
 -----
 📚 Data Analytics Projects
 ----
-* [SQL Projects](https://github.com/eocreates/SQL-Project): This repository is for all project done on SQL.
-* [Cloud & Data Engineering Projects](https://github.com/eocreates/Cloud-DataEngineering-Project): This repository is for all project done on Cloud Services
-* [Power BI Dashboards](https://github.com/eocreates/PowerBI-Project): This repository is for all project done on PowerBi(Interactive dashboards tracking KPIs and identifying trends).
-* [Excel Data Analysis](https://github.com/eocreates/Excel-Project):This repository is for all project done on Excel(Sales trend analysis, manufacturing defect tracking, and reporting).
+* [SQL Projects](https://github.com/eocreates/SQL-Project): All projects showcasing data querying, analysis, and management using SQL.
+* [Cloud & Data Engineering Projects](https://github.com/eocreates/Cloud-DataEngineering-Project): Projects demonstrating cloud-based data pipelines, storage, and processing.
+* [Power BI Dashboards](https://github.com/eocreates/PowerBI-Project): Interactive dashboards tracking KPIs and uncovering trends.
+* [Excel Data Analysis](https://github.com/eocreates/Excel-Project): Projects analyzing sales trends, tracking manufacturing defects, and reporting insights.
 
 -----
 🌍 Connect with Me
@@ -41,4 +41,7 @@ My professional journey spans sectors like consulting, education, and technology
 </div>
 
 ###
-
+---
+🎯 Fun Fact
+---
+When I’m not analyzing data, I’m exploring academics works — merging my passion for engineering and business.
