@@ -40,7 +40,7 @@ My professional journey spans sectors like consulting, education, and technology
   <a href="https://www.linkedin.com/in/emmanuel-obawole-a735b924a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=ffffff&logoColor=white&labelColor=0077B5&style=flat" height="27" alt="linkedin logo"  />
   </a>
-  <a href="malito:emmanuel.obawole.tobi@gmail.com" target="_blank">
+  <a href="mailto:emmanuel.obawole.tobi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=GMAIL&color=ffffff&logoColor=white&labelColor=D14836&style=flat" height="27" alt="gmail logo"  />
   </a>
 </div>
