@@ -44,4 +44,4 @@ My professional journey spans sectors like consulting, education, and technology
 ---
 🎯 Fun Fact
 ---
-When I’m not analyzing data, I’m exploring academics works — merging my passion for engineering and business.
+When I’m not analyzing data, I enjoy spending time at church and engaging with my community.
