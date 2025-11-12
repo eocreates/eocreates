@@ -8,7 +8,7 @@ I’m Emmanuel Obawole, a Data Analyst with over 3 years of hands-on experience 
 
 I specialize in using SQL, Power BI, Excel and cloud platforms to mine, model, and visualize data that tells powerful business stories. From automating reports to building interactive dashboards, I bridge the gap between technical data work and strategic business outcomes.
 
-My professional journey spans sectors like consulting, education, and technology, where I’ve led data integration projects, automated reporting workflows, and delivered insights that improved decision-making efficiency by up to 40%. I’m passionate about combining analytics with storytelling — turning raw data into clear, actionable narratives that drive performance and growth.
+My professional journey spans sectors like consulting, education, and technology, where I’ve led data integration projects, automated reporting workflows, and delivered insights that improved decision-making efficiency by up to 40%. I’m passionate about combining analytics with storytelling turning raw data into clear, actionable narratives that drive performance and growth.
 
 -------
 ⚡ Core Competencies
