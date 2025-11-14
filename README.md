@@ -23,7 +23,6 @@ My professional journey spans sectors like consulting, education, and technology
 📚 Data Analytics Projects
 ----
 * [SQL Projects](https://github.com/eocreates/SQL-Project): All projects showcasing data querying, analysis, and management using SQL.
-* [Cloud & Data Engineering Projects](https://github.com/eocreates/Cloud-DataEngineering-Project): Projects demonstrating cloud-based data pipelines, storage, and processing.
 * [Power BI Dashboards](https://github.com/eocreates/PowerBI-Project): Interactive dashboards tracking KPIs and uncovering trends.
 * [Excel Data Analysis](https://github.com/eocreates/Excel-Project): Projects analyzing sales trends, tracking manufacturing defects, and reporting insights.
 
